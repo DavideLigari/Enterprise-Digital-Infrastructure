@@ -1,0 +1,16 @@
+Server Hostname,Document Length(bytes),Concurrency Level,Total transferred,Requests per second,Transfer rate,Connect time,Processing time,Waiting time,Total time
+www.galbusera.it,42147,1,1276230,3.98,165.22,29,223,184,251
+www.galbusera.it,42147,2,1276230,7.69,319.68,29,216,176,245
+www.galbusera.it,42147,4,1276230,10.56,438.68,32,309,265,341
+www.galbusera.it,42147,8,1276253,8.56,355.54,37,560,519,597
+www.galbusera.it,42147,16,1276230,12.05,500.79,34,1080,1033,1114
+www.pedranzini.it,1857,1,63420,8.40,17.34,38,80,43,119
+www.pedranzini.it,1857,2,63420,16.45,33.96,37,78,42,115
+www.pedranzini.it,1857,4,63420,27.37,56.51,40,84,43,124
+www.pedranzini.it,1857,8,63420,47.76,98.60,42,84,44,126
+www.pedranzini.it,1857,16,63420,86.41,178.38,40,85,44,125
+vallespluga.it,63618,1,1916850,2.38,148.33,42,378,283,421
+vallespluga.it,63618,2,1916280,3.12,194.40,77,496,394,573
+vallespluga.it,63618,4,1916280,5.99,373.51,38,524,473,562
+vallespluga.it,63618,8,1916280,7.41,462.25,34,704,659,738
+vallespluga.it,63618,16,1916280,8.89,554.77,45,1042,994,1087

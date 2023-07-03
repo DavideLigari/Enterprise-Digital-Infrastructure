@@ -1,0 +1,12 @@
+Website,Type,Cache policy,HTTP version,HTTPS
+www.pedranzini.it/,Commercial,Validation,1.1,Not supported
+www.vallespluga.it/,Commercial,Validation,1.1,Supported
+www.unica.it/,Institutional,Validation,1.1,Supported
+www.uniss.it/,Institutional,Validation expiration,1.1,Supported
+www.istat.it/,Institutional,Validation,1.1,Supported
+www.off---white.com/,Commercial,Validation,1.1 2 3,Supported
+www.unina.it,Institutional,Validation,1.1,Not supported
+www.google.com,Commercial,Validation expiration,1.1 2 3,Supported
+www.apache.org,Institutional,Validation expiration,3,Supported
+www.studiocamer.com,Commercial,Validation expiration,3,Supported
+www.galbusera.it,Commercial,Validation expiration,1.1,Supported

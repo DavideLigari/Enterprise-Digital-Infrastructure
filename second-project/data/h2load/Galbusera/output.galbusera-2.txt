@@ -1,0 +1,115 @@
+starting benchmark...
+spawning thread #0: 2 total client(s). Timing-based test with 1s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 50% of clients started
+progress: 100% of clients started
+TLS Protocol: TLSv1.3
+Cipher: TLS_AES_256_GCM_SHA384
+Server Temp Key: X25519 253 bits
+Application protocol: http/1.1
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 31.00s, 9.77 req/s, 406.64KB/s
+requests: 293 total, 293 started, 293 done, 293 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 293 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 11.91MB (12491940) total, 111.43KB (114109) headers (space savings 0.00%), 12.10MB (12689257) data
+                     min         max         mean         sd        +/- sd
+time for request:   176.36ms    290.38ms    203.95ms     17.17ms    79.86%
+time for connect:    92.58ms    112.37ms    102.47ms     14.00ms   100.00%
+time to 1st byte:   270.70ms    277.12ms    273.91ms      4.54ms   100.00%
+req/s           :       4.87        4.90        4.88        0.02   100.00%
+starting benchmark...
+spawning thread #0: 2 total client(s). Timing-based test with 2s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 50% of clients started
+progress: 100% of clients started
+TLS Protocol: TLSv1.3
+Cipher: TLS_AES_256_GCM_SHA384
+Server Temp Key: X25519 253 bits
+Application protocol: http/1.1
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 32.00s, 9.40 req/s, 391.65KB/s
+requests: 282 total, 282 started, 282 done, 282 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 283 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 11.47MB (12031502) total, 110.69KB (113351) headers (space savings 0.00%), 11.99MB (12570978) data
+                     min         max         mean         sd        +/- sd
+time for request:   176.62ms       1.28s    211.46ms     90.95ms    99.29%
+time for connect:    81.79ms     94.98ms     88.38ms      9.32ms   100.00%
+time to 1st byte:   257.65ms    277.60ms    267.62ms     14.10ms   100.00%
+req/s           :       4.70        4.70        4.70        0.00   100.00%
+starting benchmark...
+spawning thread #0: 2 total client(s). Timing-based test with 4s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 50% of clients started
+progress: 100% of clients started
+TLS Protocol: TLSv1.3
+Cipher: TLS_AES_256_GCM_SHA384
+Server Temp Key: X25519 253 bits
+Application protocol: http/1.1
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 34.00s, 9.47 req/s, 394.15KB/s
+requests: 284 total, 284 started, 284 done, 284 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 284 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 11.55MB (12108268) total, 118.47KB (121310) headers (space savings 0.00%), 12.87MB (13490240) data
+                     min         max         mean         sd        +/- sd
+time for request:   176.91ms       1.29s    211.02ms     68.49ms    97.54%
+time for connect:    77.35ms    105.41ms     91.38ms     19.85ms   100.00%
+time to 1st byte:   236.59ms    288.84ms    262.72ms     36.94ms   100.00%
+req/s           :       4.63        4.83        4.73        0.14   100.00%
+starting benchmark...
+spawning thread #0: 2 total client(s). Timing-based test with 8s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 50% of clients started
+progress: 100% of clients started
+TLS Protocol: TLSv1.3
+Cipher: TLS_AES_256_GCM_SHA384
+Server Temp Key: X25519 253 bits
+Application protocol: http/1.1
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 38.00s, 9.50 req/s, 395.27KB/s
+requests: 285 total, 285 started, 285 done, 285 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 284 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 11.58MB (12142721) total, 131.42KB (134575) headers (space savings 0.00%), 14.27MB (14965735) data
+                     min         max         mean         sd        +/- sd
+time for request:   172.80ms    557.53ms    210.05ms     32.88ms    89.82%
+time for connect:    77.14ms     78.22ms     77.68ms       766us   100.00%
+time to 1st byte:   247.21ms    256.38ms    251.79ms      6.48ms   100.00%
+req/s           :       4.70        4.80        4.75        0.07   100.00%
+starting benchmark...
+spawning thread #0: 2 total client(s). Timing-based test with 16s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 50% of clients started
+progress: 100% of clients started
+TLS Protocol: TLSv1.3
+Cipher: TLS_AES_256_GCM_SHA384
+Server Temp Key: X25519 253 bits
+Application protocol: http/1.1
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 46.00s, 8.27 req/s, 344.18KB/s
+requests: 248 total, 248 started, 248 done, 248 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 248 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 10.08MB (10573377) total, 145.12KB (148598) headers (space savings 0.00%), 15.76MB (16525544) data
+                     min         max         mean         sd        +/- sd
+time for request:   175.21ms       1.67s    244.08ms    135.81ms    95.16%
+time for connect:    71.81ms     99.58ms     85.69ms     19.63ms   100.00%
+time to 1st byte:   239.07ms    288.60ms    263.83ms     35.02ms   100.00%
+req/s           :       4.10        4.17        4.13        0.05   100.00%

@@ -1,0 +1,131 @@
+Website,PgeSize (KB),N requests,HTTP version,HTPS Supported,Cache policy,Time to complete (ms),DOMContentLoaded time,Time to load
+www.pedranzini.it/,180.40,30,1.1,No,No cache,2180,1510,1620
+www.pedranzini.it/,180.40,30,1.1,No,No cache,1960,1560,1770
+www.pedranzini.it/,180.40,30,1.1,No,No cache,1730,1300,1520
+www.pedranzini.it/,180.40,30,1.1,No,No cache,1900,1530,1740
+www.pedranzini.it/,180.40,30,1.1,No,No cache,1570,1220,1410
+www.vallespluga.it/,20120,152,1.1,Yes,No cache,9090,2300,8410
+www.vallespluga.it/,20120,152,1.1,Yes,No cache,7400,2760,5980
+www.vallespluga.it/,20120,152,1.1,Yes,No cache,6560,2110,5420
+www.vallespluga.it/,20120,152,1.1,Yes,No cache,7310,1960,5990
+www.vallespluga.it/,20120,152,1.1,Yes,No cache,6670,2410,5510
+www.unica.it/,2570,36,1.1,Yes,No cache,2250,1780,2360
+www.unica.it/,2570,36,1.1,Yes,No cache,1720,1050,1960
+www.unica.it/,2570,36,1.1,Yes,No cache,1890,1130,2280
+www.unica.it/,2570,36,1.1,Yes,No cache,2200,1240,2040
+www.unica.it/,2570,36,1.1,Yes,No cache,2160,1220,2360
+www.uniss.it/,2540,118,1.1,Yes,No cache,3520,1900,3220
+www.uniss.it/,2540,118,1.1,Yes,No cache,2970,1640,2740
+www.uniss.it/,2540,118,1.1,Yes,No cache,2740,1400,2670
+www.uniss.it/,2540,118,1.1,Yes,No cache,3270,1800,3140
+www.uniss.it/,2540,118,1.1,Yes,No cache,3300,1820,3020
+www.istat.it/,11200,130,1.1,Yes,No cache,11470,2210,7600
+www.istat.it/,11200,130,1.1,Yes,No cache,11110,1850,7380
+www.istat.it/,11200,130,1.1,Yes,No cache,11050,1950,7300
+www.istat.it/,11200,130,1.1,Yes,No cache,10930,1830,7300
+www.istat.it/,11200,130,1.1,Yes,No cache,11160,1740,7360
+www.unina.it,2210,64,1.1,No,No cache,11840,11300,11820
+www.unina.it,2210,64,1.1,No,No cache,11240,10740,11320
+www.unina.it,2210,64,1.1,No,No cache,2020,807,1860
+www.unina.it,2210,64,1.1,No,No cache,2030,719,1900
+www.unina.it,2210,64,1.1,No,No cache,2600,987,2420
+www.apache.org,2010,36,3,Yes,No cache,2130,1430,2100
+www.apache.org,2010,36,3,Yes,No cache,1170,488,1210
+www.apache.org,2010,36,3,Yes,No cache,4740,455,4640
+www.apache.org,2010,36,3,Yes,No cache,3710,679,3600
+www.apache.org,2010,36,3,Yes,No cache,3340,1170,3360
+www.studiocamer.com,3340,23,2,Yes,No cache,4510,2160,3530
+www.studiocamer.com,3340,23,2,Yes,No cache,2380,1260,2110
+www.studiocamer.com,3340,23,2,Yes,No cache,2820,1630,2530
+www.studiocamer.com,3340,23,2,Yes,No cache,2610,1350,2270
+www.studiocamer.com,3340,23,2,Yes,No cache,3270,1770,2980
+www.studiocamer.com,3340,23,3,Yes,No cache,5370,3380,4460
+www.studiocamer.com,3340,23,3,Yes,No cache,4620,3650,3650
+www.studiocamer.com,3340,23,3,Yes,No cache,4710,4300,4310
+www.studiocamer.com,3340,23,3,Yes,No cache,5930,5420,5430
+www.studiocamer.com,3340,23,3,Yes,No cache,5960,5390,5400
+www.off---white.com/,6790,90,2,Yes,No cache,13030,842,9060
+www.off---white.com/,6790,90,2,Yes,No cache,10830,702,7580
+www.off---white.com/,6790,90,2,Yes,No cache,9130,378,2960
+www.off---white.com/,6790,90,2,Yes,No cache,10900,1810,6720
+www.off---white.com/,6790,90,2,Yes,No cache,12520,2860,10740
+www.off---white.com/,6790,90,3,Yes,No cache,14160,400,4420
+www.off---white.com/,6790,90,3,Yes,No cache,8520,1130,5390
+www.off---white.com/,6790,90,3,Yes,No cache,8860,5760,7270
+www.off---white.com/,6790,90,3,Yes,No cache,7550,4850,5960
+www.off---white.com/,6790,90,3,Yes,No cache,4770,358,3210
+www.google.com,2350,33,3,Yes,No cache,1680,382,1330
+www.google.com,2350,33,3,Yes,No cache,1440,283,1190
+www.google.com,2350,33,3,Yes,No cache,1490,288,1280
+www.google.com,2350,33,3,Yes,No cache,1970,293,1720
+www.google.com,2350,33,3,Yes,No cache,1520,323,1240
+www.google.com,2350,33,2,Yes,No cache,4850,663,2330
+www.google.com,2350,33,2,Yes,No cache,3800,456,3610
+www.google.com,2350,33,2,Yes,No cache,2840,347,2640
+www.google.com,2350,33,2,Yes,No cache,2250,341,2080
+www.google.com,2350,33,2,Yes,No cache,2980,339,2730
+www.pedranzini.it/,180.40,30,1.1,No,Validation,1560,901,1050
+www.pedranzini.it/,180.40,30,1.1,No,Validation,3360,3330,3340
+www.pedranzini.it/,180.40,30,1.1,No,Validation,363,351,364
+www.pedranzini.it/,180.40,30,1.1,No,Validation,716,702,715
+www.pedranzini.it/,180.40,30,1.1,No,Validation,878,829,841
+www.vallespluga.it/,20120,152,1.1,Yes,Validation,5260,1720,4140
+www.vallespluga.it/,20120,152,1.1,Yes,Validation,2920,951,1990
+www.vallespluga.it/,20120,152,1.1,Yes,Validation,2610,911,1580
+www.vallespluga.it/,20120,152,1.1,Yes,Validation,2640,958,1700
+www.vallespluga.it/,20120,152,1.1,Yes,Validation,2570,877,1570
+www.unica.it/,2570,36,1.1,Yes,Validation,1590,1380,1630
+www.unica.it/,2570,36,1.1,Yes,Validation,816,712,730
+www.unica.it/,2570,36,1.1,Yes,Validation,767,706,716
+www.unica.it/,2570,36,1.1,Yes,Validation,1320,1280,1290
+www.unica.it/,2570,36,1.1,Yes,Validation,669,655,662
+www.uniss.it/,2540,118,1.1,Yes,Validation expiration,2890,1980,2520
+www.uniss.it/,2540,118,1.1,Yes,Validation expiration,828,385,553
+www.uniss.it/,2540,118,1.1,Yes,Validation expiration,847,467,570
+www.uniss.it/,2540,118,1.1,Yes,Validation expiration,847,468,597
+www.uniss.it/,2540,118,1.1,Yes,Validation expiration,824,382,544
+www.istat.it/,11200,130,1.1,Yes,Validation,6610,1290,3340
+www.istat.it/,11200,130,1.1,Yes,Validation,4160,677,2310
+www.istat.it/,11200,130,1.1,Yes,Validation,6600,829,2520
+www.istat.it/,11200,130,1.1,Yes,Validation,5940,784,2140
+www.istat.it/,11200,130,1.1,Yes,Validation,6090,730,2220
+www.unina.it,2210,64,1.1,No,Validation,1660,1260,1910
+www.unina.it,2210,64,1.1,No,Validation,644,505,663
+www.unina.it,2210,64,1.1,No,Validation,703,416,735
+www.unina.it,2210,64,1.1,No,Validation,643,434,664
+www.unina.it,2210,64,1.1,No,Validation,543,392,581
+www.apache.org,2010,36,3,Yes,Validation expiration,944,533,952
+www.apache.org,2010,36,3,Yes,Validation expiration,554,193,608
+www.apache.org,2010,36,3,Yes,Validation expiration,564,259,622
+www.apache.org,2010,36,3,Yes,Validation expiration,715,263,732
+www.apache.org,2010,36,3,Yes,Validation expiration,528,169,569
+www.studiocamer.com,3340,23,3,Yes,Validation expiration,1630,758,1150
+www.studiocamer.com,3340,23,3,Yes,Validation expiration,730,433,441
+www.studiocamer.com,3340,23,3,Yes,Validation expiration,792,427,440
+www.studiocamer.com,3340,23,3,Yes,Validation expiration,845,478,489
+www.studiocamer.com,3340,23,3,Yes,Validation expiration,795,448,459
+www.studiocamer.com,3340,23,2,Yes,Validation expiration,3270,1770,2980
+www.studiocamer.com,3340,23,2,Yes,Validation expiration,1210,911,925
+www.studiocamer.com,3340,23,2,Yes,Validation expiration,805,477,486
+www.studiocamer.com,3340,23,2,Yes,Validation expiration,840,452,463
+www.studiocamer.com,3340,23,2,Yes,Validation expiration,741,454,465
+www.off---white.com/,6790,90,2,Yes,Validation,8900,1540,4263
+www.off---white.com/,6790,90,2,Yes,Validation,7460,270,4550
+www.off---white.com/,6790,90,2,Yes,Validation,3210,233,4891
+www.off---white.com/,6790,90,2,Yes,Validation,6230,434,4005
+www.off---white.com/,6790,90,2,Yes,Validation,6370,389,4265
+www.off---white.com/,6790,90,3,Yes,Validation,24590,1320,3884
+www.off---white.com/,6790,90,3,Yes,Validation,2960,339,4001
+www.off---white.com/,6790,90,3,Yes,Validation,9600,296,3992
+www.off---white.com/,6790,90,3,Yes,Validation,6800,542,4120
+www.off---white.com/,6790,90,3,Yes,Validation,5750,404,3942
+www.google.com,2350,33,2,Yes,Validation expiration,3740,717,1460
+www.google.com,2350,33,2,Yes,Validation expiration,1240,325,926
+www.google.com,2350,33,2,Yes,Validation expiration,1150,311,891
+www.google.com,2350,33,2,Yes,Validation expiration,1200,295,385
+www.google.com,2350,33,2,Yes,Validation expiration,1460,587,595
+www.google.com,2350,33,3,Yes,No cache,1680,382,1330
+www.google.com,2350,33,3,Yes,No cache,1440,283,1190
+www.google.com,2350,33,3,Yes,No cache,1490,288,1280
+www.google.com,2350,33,3,Yes,No cache,1970,293,1720
+www.google.com,2350,33,3,Yes,No cache,1520,323,1240

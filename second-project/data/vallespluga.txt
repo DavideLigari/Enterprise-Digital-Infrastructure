@@ -1,0 +1,213 @@
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking vallespluga.it (be patient).....done
+
+
+Server Software:        Apache/2.4.29
+Server Hostname:        vallespluga.it
+Server Port:            80
+
+Document Path:          /i-nostri-prodotti/
+Document Length:        63618 bytes
+
+Concurrency Level:      1
+Time taken for tests:   12.620 seconds
+Complete requests:      30
+Failed requests:        0
+Total transferred:      1916850 bytes
+HTML transferred:       1908540 bytes
+Requests per second:    2.38 [#/sec] (mean)
+Time per request:       420.666 [ms] (mean)
+Time per request:       420.666 [ms] (mean, across all concurrent requests)
+Transfer rate:          148.33 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       36   42   4.8     41      54
+Processing:   347  378  25.3    373     460
+Waiting:      253  283  18.4    281     336
+Total:        384  421  29.1    414     513
+
+Percentage of the requests served within a certain time (ms)
+  50%    414
+  66%    423
+  75%    438
+  80%    450
+  90%    460
+  95%    472
+  98%    513
+  99%    513
+ 100%    513 (longest request)
+
+
+
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking vallespluga.it (be patient).....done
+
+
+Server Software:        Apache/2.4.29
+Server Hostname:        vallespluga.it
+Server Port:            80
+
+Document Path:          /i-nostri-prodotti/
+Document Length:        63618 bytes
+
+Concurrency Level:      2
+Time taken for tests:   9.626 seconds
+Complete requests:      30
+Failed requests:        0
+Total transferred:      1916280 bytes
+HTML transferred:       1908540 bytes
+Requests per second:    3.12 [#/sec] (mean)
+Time per request:       641.761 [ms] (mean)
+Time per request:       320.881 [ms] (mean, across all concurrent requests)
+Transfer rate:          194.40 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       32   77  79.0     57     475
+Processing:   362  496 229.8    448    1652
+Waiting:      290  394 230.2    337    1550
+Total:        393  573 239.7    542    1693
+
+Percentage of the requests served within a certain time (ms)
+  50%    542
+  66%    552
+  75%    559
+  80%    564
+  90%    881
+  95%    917
+  98%   1693
+  99%   1693
+ 100%   1693 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking vallespluga.it (be patient).....done
+
+
+Server Software:        Apache/2.4.29
+Server Hostname:        vallespluga.it
+Server Port:            80
+
+Document Path:          /i-nostri-prodotti/
+Document Length:        63618 bytes
+
+Concurrency Level:      4
+Time taken for tests:   5.010 seconds
+Complete requests:      30
+Failed requests:        0
+Total transferred:      1916280 bytes
+HTML transferred:       1908540 bytes
+Requests per second:    5.99 [#/sec] (mean)
+Time per request:       668.036 [ms] (mean)
+Time per request:       167.009 [ms] (mean, across all concurrent requests)
+Transfer rate:          373.51 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       23   38  19.0     30      84
+Processing:   308  524 576.2    353    2630
+Waiting:      262  473 576.6    318    2591
+Total:        343  562 583.5    380    2713
+
+Percentage of the requests served within a certain time (ms)
+  50%    380
+  66%    408
+  75%    470
+  80%    486
+  90%    736
+  95%   2664
+  98%   2713
+  99%   2713
+ 100%   2713 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking vallespluga.it (be patient).....done
+
+
+Server Software:        Apache/2.4.29
+Server Hostname:        vallespluga.it
+Server Port:            80
+
+Document Path:          /i-nostri-prodotti/
+Document Length:        63618 bytes
+
+Concurrency Level:      8
+Time taken for tests:   4.048 seconds
+Complete requests:      30
+Failed requests:        0
+Total transferred:      1916280 bytes
+HTML transferred:       1908540 bytes
+Requests per second:    7.41 [#/sec] (mean)
+Time per request:       1079.565 [ms] (mean)
+Time per request:       134.946 [ms] (mean, across all concurrent requests)
+Transfer rate:          462.25 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       22   34  22.9     29     153
+Processing:   335  704 616.3    418    2630
+Waiting:      290  659 615.9    378    2585
+Total:        365  738 614.5    452    2661
+
+Percentage of the requests served within a certain time (ms)
+  50%    452
+  66%    476
+  75%    658
+  80%   1384
+  90%   1409
+  95%   2459
+  98%   2661
+  99%   2661
+ 100%   2661 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking vallespluga.it (be patient).....done
+
+
+Server Software:        Apache/2.4.29
+Server Hostname:        vallespluga.it
+Server Port:            80
+
+Document Path:          /i-nostri-prodotti/
+Document Length:        63618 bytes
+
+Concurrency Level:      16
+Time taken for tests:   3.373 seconds
+Complete requests:      30
+Failed requests:        0
+Total transferred:      1916280 bytes
+HTML transferred:       1908540 bytes
+Requests per second:    8.89 [#/sec] (mean)
+Time per request:       1799.060 [ms] (mean)
+Time per request:       112.441 [ms] (mean, across all concurrent requests)
+Transfer rate:          554.77 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       26   45  15.7     37      77
+Processing:   384 1042 859.5    611    2884
+Waiting:      334  994 858.4    564    2832
+Total:        413 1087 867.1    636    2945
+
+Percentage of the requests served within a certain time (ms)
+  50%    636
+  66%    764
+  75%   1430
+  80%   1519
+  90%   2873
+  95%   2873
+  98%   2945
+  99%   2945
+ 100%   2945 (longest request)

@@ -1,0 +1,165 @@
+starting benchmark...
+spawning thread #0: 4 total client(s). Timing-based test with 1s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 25% of clients started
+progress: 50% of clients started
+progress: 75% of clients started
+progress: 100% of clients started
+TLS Protocol: TLSv1.2
+Cipher: ECDHE-RSA-AES256-GCM-SHA384
+Server Temp Key: ECDH P-256 256 bits
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+Application protocol: http/1.1
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 31.00s, 9.97 req/s, 2.29MB/s
+requests: 299 total, 299 started, 299 done, 299 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 297 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 68.60MB (71931470) total, 200.32KB (205131) headers (space savings 0.00%), 69.27MB (72638037) data
+                     min         max         mean         sd        +/- sd
+time for request:   253.27ms       1.68s    408.16ms    290.03ms    90.64%
+time for connect:        0us         0us         0us         0us     0.00%
+time to 1st byte:        0us         0us         0us         0us     0.00%
+req/s           :       2.43        2.57        2.49        0.06    50.00%
+starting benchmark...
+spawning thread #0: 4 total client(s). Timing-based test with 2s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 25% of clients started
+progress: 50% of clients started
+progress: 75% of clients started
+progress: 100% of clients started
+TLS Protocol: TLSv1.2
+Cipher: ECDHE-RSA-AES256-GCM-SHA384
+Server Temp Key: ECDH P-256 256 bits
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+Application protocol: http/1.1
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 32.00s, 9.90 req/s, 2.27MB/s
+requests: 297 total, 297 started, 297 done, 297 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 295 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 68.08MB (71381930) total, 205.61KB (210547) headers (space savings 0.00%), 71.21MB (74669487) data
+                     min         max         mean         sd        +/- sd
+time for request:   263.44ms       1.55s    407.75ms    276.18ms    91.25%
+time for connect:        0us         0us         0us         0us     0.00%
+time to 1st byte:        0us         0us         0us         0us     0.00%
+req/s           :       2.23        2.70        2.47        0.19    50.00%
+starting benchmark...
+spawning thread #0: 4 total client(s). Timing-based test with 4s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 25% of clients started
+progress: 50% of clients started
+progress: 75% of clients started
+progress: 100% of clients started
+TLS Protocol: TLSv1.2
+Cipher: ECDHE-RSA-AES256-GCM-SHA384
+Server Temp Key: ECDH P-256 256 bits
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+Application protocol: http/1.1
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 34.00s, 10.47 req/s, 2.40MB/s
+requests: 314 total, 314 started, 314 done, 314 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 315 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 71.94MB (75430775) total, 232.72KB (238304) headers (space savings 0.00%), 79.96MB (83842386) data
+                     min         max         mean         sd        +/- sd
+time for request:   240.53ms       1.49s    385.20ms    270.39ms    92.04%
+time for connect:        0us         0us         0us         0us     0.00%
+time to 1st byte:        0us         0us         0us         0us     0.00%
+req/s           :       2.33        2.90        2.62        0.24    50.00%
+starting benchmark...
+spawning thread #0: 4 total client(s). Timing-based test with 8s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 25% of clients started
+progress: 50% of clients started
+progress: 75% of clients started
+progress: 100% of clients started
+TLS Protocol: TLSv1.2
+Cipher: ECDHE-RSA-AES256-GCM-SHA384
+Server Temp Key: ECDH P-256 256 bits
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+Application protocol: http/1.1
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 38.00s, 9.83 req/s, 2.25MB/s
+requests: 295 total, 295 started, 295 done, 295 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 294 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 67.42MB (70694886) total, 245.28KB (251167) headers (space savings 0.00%), 84.59MB (88703752) data
+                     min         max         mean         sd        +/- sd
+time for request:   241.74ms       1.73s    397.32ms    266.23ms    92.54%
+time for connect:        0us         0us         0us         0us     0.00%
+time to 1st byte:        0us         0us         0us         0us     0.00%
+req/s           :       2.30        2.77        2.46        0.21    75.00%
+starting benchmark...
+spawning thread #0: 4 total client(s). Timing-based test with 16s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 25% of clients started
+progress: 50% of clients started
+progress: 75% of clients started
+progress: 100% of clients started
+TLS Protocol: TLSv1.2
+Cipher: ECDHE-RSA-AES256-GCM-SHA384
+Server Temp Key: ECDH P-256 256 bits
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+Application protocol: http/1.1
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+No protocol negotiated. Fallback behaviour may be activated
+Server does not support NPN/ALPN. Falling back to HTTP/1.1.
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 46.03s, 0.00 req/s, 0B/s
+requests: 0 total, 0 started, 0 done, 0 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 0 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 0B (0) total, 17.19KB (17602) headers (space savings 0.00%), 5.49MB (5756539) data
+                     min         max         mean         sd        +/- sd
+time for request:        0us         0us         0us         0us     0.00%
+time for connect:        0us         0us         0us         0us     0.00%
+time to 1st byte:        0us         0us         0us         0us     0.00%
+req/s           :       0.00        0.00        0.00        0.00   100.00%

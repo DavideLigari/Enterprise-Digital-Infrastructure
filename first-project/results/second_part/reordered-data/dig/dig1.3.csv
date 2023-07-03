@@ -1,0 +1,5 @@
+Local name server;Web server;Flags;Numberof RRs;RRs type
+Google;yjc.ir;qr rd ra;7;MX TXT SOA NS A
+Quad9;yjc.ir;qr rd ra;7;MX TXT SOA NS A
+Google;spec.org;qr rd ra;8;MX TXT SOA NS A
+Quad9;spec.org;qr rd ra;8;MX TXT SOA NS A

@@ -1,0 +1,145 @@
+[
+    {
+        "count": 1,
+        "host": "_gateway",
+        "Loss%": 11.0,
+        "Snt": 300,
+        "Last": 258.62,
+        "Avg": 292.36,
+        "Best": 242.43,
+        "Wrst": 458.61,
+        "StDev": 28.689
+    },
+    {
+        "count": 2,
+        "host": "unn-37-19-205-156.datapacket.com",
+        "Loss%": 6.666,
+        "Snt": 300,
+        "Last": 303.0,
+        "Avg": 300.1,
+        "Best": 250.34,
+        "Wrst": 424.2,
+        "StDev": 29.308
+    },
+    {
+        "count": 3,
+        "host": "vl202.tyo-eq8-core-2.cdn77.com",
+        "Loss%": 59.0,
+        "Snt": 300,
+        "Last": 334.19,
+        "Avg": 315.78,
+        "Best": 256.71,
+        "Wrst": 476.33,
+        "StDev": 26.024
+    },
+    {
+        "count": 4,
+        "host": "101.203.88.173",
+        "Loss%": 35.333,
+        "Snt": 300,
+        "Last": 276.94,
+        "Avg": 284.75,
+        "Best": 237.5,
+        "Wrst": 436.36,
+        "StDev": 28.114
+    },
+    {
+        "count": 5,
+        "host": "108.170.242.193",
+        "Loss%": 9.333,
+        "Snt": 300,
+        "Last": 342.06,
+        "Avg": 302.97,
+        "Best": 250.34,
+        "Wrst": 442.55,
+        "StDev": 27.388
+    },
+    {
+        "count": 6,
+        "host": "142.251.251.3",
+        "Loss%": 27.0,
+        "Snt": 300,
+        "Last": 352.88,
+        "Avg": 308.8,
+        "Best": 255.65,
+        "Wrst": 416.3,
+        "StDev": 22.197
+    },
+    {
+        "count": 7,
+        "host": "nrt13s72-in-f14.1e100.net",
+        "Loss%": 59.0,
+        "Snt": 300,
+        "Last": 297.25,
+        "Avg": 294.26,
+        "Best": 242.03,
+        "Wrst": 468.27,
+        "StDev": 35.443
+    },
+    {
+        "count": 8,
+        "host": "nrt13s72-in-f14.1e100.net",
+        "Loss%": 59.0,
+        "Snt": 300,
+        "Last": 0,
+        "Avg": 0,
+        "Best": 0,
+        "Wrst": 0,
+        "StDev": 0
+    },
+    {
+        "count": 9,
+        "host": "nrt13s72-in-f14.1e100.net",
+        "Loss%": 59.0,
+        "Snt": 300,
+        "Last": 0,
+        "Avg": 0,
+        "Best": 0,
+        "Wrst": 0,
+        "StDev": 0
+    },
+    {
+        "count": 10,
+        "host": "nrt13s72-in-f14.1e100.net",
+        "Loss%": 59.0,
+        "Snt": 300,
+        "Last": 0,
+        "Avg": 0,
+        "Best": 0,
+        "Wrst": 0,
+        "StDev": 0
+    },
+    {
+        "count": 11,
+        "host": "nrt13s72-in-f14.1e100.net",
+        "Loss%": 59.0,
+        "Snt": 300,
+        "Last": 0,
+        "Avg": 0,
+        "Best": 0,
+        "Wrst": 0,
+        "StDev": 0
+    },
+    {
+        "count": 12,
+        "host": "nrt13s72-in-f14.1e100.net",
+        "Loss%": 59.0,
+        "Snt": 300,
+        "Last": 0,
+        "Avg": 0,
+        "Best": 0,
+        "Wrst": 0,
+        "StDev": 0
+    },
+    {
+        "count": 13,
+        "host": "nrt13s72-in-f14.1e100.net",
+        "Loss%": 59.0,
+        "Snt": 300,
+        "Last": 0,
+        "Avg": 0,
+        "Best": 0,
+        "Wrst": 0,
+        "StDev": 0
+    }
+]

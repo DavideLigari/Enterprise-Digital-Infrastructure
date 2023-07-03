@@ -1,0 +1,10 @@
+Name server;Flags;Domain name;TTL;Record type;Type;IP address;Query time
+Google;qr rd ra;harvard.edu.;22;MX;100;mx0a-00171101.pphosted.com.;68
+Google;qr rd ra;harvard.edu.;22;MX;100;mx0b-00171101.pphosted.com.;68
+Quad9;qr rd ra;harvard.edu.;180;MX;100;mx0b-00171101.pphosted.com.;132
+Quad9;qr rd ra;harvard.edu.;180;MX;100;mx0a-00171101.pphosted.com.;132
+OpenDNS;qr rd ra;harvard.edu.;180;MX;100;mx0a-00171101.pphosted.com.;88
+OpenDNS;qr rd ra;harvard.edu.;180;MX;100;mx0b-00171101.pphosted.com.;88
+Comodo Secure DNS;qr rd ra;harvard.edu.;180;MX;100;mx0a-00171101.pphosted.com.;180
+Comodo Secure DNS;qr rd ra;harvard.edu.;180;MX;100;mx0b-00171101.pphosted.com.;180
+University of Pavia;qr rd;;;;;;64

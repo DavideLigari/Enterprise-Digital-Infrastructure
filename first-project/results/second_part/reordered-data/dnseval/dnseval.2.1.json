@@ -1,0 +1,62 @@
+[
+  {
+    "Type": "UDP",
+    "Hostname": "google.com",
+    "timestamp": "2023-04-25 10:12:42.968954",
+    "r_min": 20.755290985107422,
+    "r_avg": 29.091827869415283,
+    "resolver": "8.8.4.4",
+    "r_max": 106.31394386291504,
+    "r_lost_percent": 0.0,
+    "s_ttl": "105",
+    "text_flags": "QR -- -- RD RA -- --"
+  },
+  {
+    "Type": "TCP",
+    "Hostname": "google.com",
+    "timestamp": "2023-04-25 10:13:27.687837",
+    "r_min": 42.92654991149902,
+    "r_avg": 62.53050923347473,
+    "resolver": "8.8.4.4",
+    "r_max": 134.59277153015137,
+    "r_lost_percent": 0.0,
+    "s_ttl": "60",
+    "text_flags": "QR -- -- RD RA -- --"
+  },
+  {
+    "Type": "DoT",
+    "Hostname": "google.com",
+    "timestamp": "2023-04-25 10:15:50.480330",
+    "r_min": 133.00514221191406,
+    "r_avg": 167.94995427131653,
+    "resolver": "8.8.4.4",
+    "r_max": 268.2185173034668,
+    "r_lost_percent": 0.0,
+    "s_ttl": "251",
+    "text_flags": "QR -- -- RD RA -- --"
+  },
+  {
+    "Type": "DoH",
+    "Hostname": "google.com",
+    "timestamp": "2023-04-25 10:18:14.471122",
+    "r_min": 232.238,
+    "r_avg": 278.05243500000006,
+    "resolver": "8.8.4.4",
+    "r_max": 404.106,
+    "r_lost_percent": 0.0,
+    "s_ttl": "123",
+    "text_flags": "QR -- -- RD RA -- --"
+  },
+  {
+    "Type": "DNSSec Enabled",
+    "Hostname": "google.com",
+    "timestamp": "2023-04-25 10:18:46.777392",
+    "r_min": 20.541906356811523,
+    "r_avg": 26.919878721237183,
+    "resolver": "8.8.4.4",
+    "r_max": 46.39434814453125,
+    "r_lost_percent": 0.0,
+    "s_ttl": "46",
+    "text_flags": "QR -- -- RD RA -- --"
+  }
+]

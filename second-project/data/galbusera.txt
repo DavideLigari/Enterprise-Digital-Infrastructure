@@ -1,0 +1,210 @@
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking www.galbusera.it (be patient).....done
+
+
+Server Software:        Apache/2.4.53
+Server Hostname:        www.galbusera.it
+Server Port:            80
+
+Document Path:          /chi-siamo/
+Document Length:        42147 bytes
+
+Concurrency Level:      1
+Time taken for tests:   7.543 seconds
+Complete requests:      30
+Failed requests:        0
+Total transferred:      1276230 bytes
+HTML transferred:       1264410 bytes
+Requests per second:    3.98 [#/sec] (mean)
+Time per request:       251.444 [ms] (mean)
+Time per request:       251.444 [ms] (mean, across all concurrent requests)
+Transfer rate:          165.22 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       24   29   5.7     27      46
+Processing:   196  223  14.4    224     265
+Waiting:      159  184  11.7    184     205
+Total:        222  251  16.8    250     292
+
+Percentage of the requests served within a certain time (ms)
+  50%    250
+  66%    254
+  75%    258
+  80%    263
+  90%    281
+  95%    281
+  98%    292
+  99%    292
+ 100%    292 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking www.galbusera.it (be patient).....done
+
+
+Server Software:        Apache/2.4.53
+Server Hostname:        www.galbusera.it
+Server Port:            80
+
+Document Path:          /chi-siamo/
+Document Length:        42147 bytes
+
+Concurrency Level:      2
+Time taken for tests:   3.899 seconds
+Complete requests:      30
+Failed requests:        0
+Total transferred:      1276230 bytes
+HTML transferred:       1264410 bytes
+Requests per second:    7.69 [#/sec] (mean)
+Time per request:       259.910 [ms] (mean)
+Time per request:       129.955 [ms] (mean, across all concurrent requests)
+Transfer rate:          319.68 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       22   29   8.6     26      59
+Processing:   193  216  11.7    216     246
+Waiting:      156  176  10.6    174     207
+Total:        215  245  15.9    242     288
+
+Percentage of the requests served within a certain time (ms)
+  50%    242
+  66%    251
+  75%    253
+  80%    256
+  90%    266
+  95%    280
+  98%    288
+  99%    288
+ 100%    288 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking www.galbusera.it (be patient).....done
+
+
+Server Software:        Apache/2.4.53
+Server Hostname:        www.galbusera.it
+Server Port:            80
+
+Document Path:          /chi-siamo/
+Document Length:        42147 bytes
+
+Concurrency Level:      4
+Time taken for tests:   2.841 seconds
+Complete requests:      30
+Failed requests:        0
+Total transferred:      1276230 bytes
+HTML transferred:       1264410 bytes
+Requests per second:    10.56 [#/sec] (mean)
+Time per request:       378.807 [ms] (mean)
+Time per request:       94.702 [ms] (mean, across all concurrent requests)
+Transfer rate:          438.68 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       23   32   9.3     30      71
+Processing:   211  309  33.5    317     352
+Waiting:      170  265  35.2    276     304
+Total:        236  341  33.4    346     395
+
+Percentage of the requests served within a certain time (ms)
+  50%    346
+  66%    358
+  75%    364
+  80%    370
+  90%    375
+  95%    376
+  98%    395
+  99%    395
+ 100%    395 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking www.galbusera.it (be patient).....done
+
+
+Server Software:        Apache/2.4.53
+Server Hostname:        www.galbusera.it
+Server Port:            80
+
+Document Path:          /chi-siamo/
+Document Length:        42147 bytes
+
+Concurrency Level:      8
+Time taken for tests:   3.505 seconds
+Complete requests:      30
+Failed requests:        0
+Total transferred:      1276253 bytes
+HTML transferred:       1264410 bytes
+Requests per second:    8.56 [#/sec] (mean)
+Time per request:       934.786 [ms] (mean)
+Time per request:       116.848 [ms] (mean, across all concurrent requests)
+Transfer rate:          355.54 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       23   37   8.3     38      54
+Processing:   367  560 150.4    564    1258
+Waiting:      315  519 151.0    526    1215
+Total:        401  597 153.8    602    1309
+
+Percentage of the requests served within a certain time (ms)
+  50%    602
+  66%    609
+  75%    614
+  80%    621
+  90%    653
+  95%    656
+  98%   1309
+  99%   1309
+ 100%   1309 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking www.galbusera.it (be patient).....done
+
+
+Server Software:        Apache/2.4.53
+Server Hostname:        www.galbusera.it
+Server Port:            80
+
+Document Path:          /chi-siamo/
+Document Length:        42147 bytes
+
+Concurrency Level:      16
+Time taken for tests:   2.489 seconds
+Complete requests:      30
+Failed requests:        0
+Total transferred:      1276230 bytes
+HTML transferred:       1264410 bytes
+Requests per second:    12.05 [#/sec] (mean)
+Time per request:       1327.305 [ms] (mean)
+Time per request:       82.957 [ms] (mean, across all concurrent requests)
+Transfer rate:          500.79 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       26   34   3.8     34      44
+Processing:   222 1080 257.0   1279    1315
+Waiting:      191 1033 255.0   1209    1282
+Total:        257 1114 255.3   1312    1341
+
+Percentage of the requests served within a certain time (ms)
+  50%   1312
+  66%   1320
+  75%   1321
+  80%   1322
+  90%   1323
+  95%   1338
+  98%   1341
+  99%   1341
+ 100%   1341 (longest request)

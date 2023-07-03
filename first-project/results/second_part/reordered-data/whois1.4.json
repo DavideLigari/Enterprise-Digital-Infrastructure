@@ -1,0 +1,16 @@
+{
+    "Domain Name": "GOOGLE.COM",
+    "Registry Domain ID": "2138514_DOMAIN_COM-VRSN",
+    "Registrar WHOIS Server": "whois.markmonitor.com",
+    "Registrar URL": "http://www.markmonitor.com",
+    "Updated Date": "2019-09-09T15:39:04Z",
+    "Creation Date": "1997-09-15T04:00:00Z",
+    "Registry Expiry Date": "2028-09-14T04:00:00Z",
+    "Name Server": [
+        "NS1.GOOGLE.COM",
+        "NS2.GOOGLE.COM",
+        "NS3.GOOGLE.COM",
+        "NS4.GOOGLE.COM"
+    ],
+    "DNSSEC": "unsigned"
+}

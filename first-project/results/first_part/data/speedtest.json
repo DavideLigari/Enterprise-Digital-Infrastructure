@@ -1,0 +1,26 @@
+[
+    {
+        "command": "speedtest-cli --json  --server 25206",
+        "download": 20536254,
+        "upload": 11143620,
+        "country": "United States"
+    },
+    {
+        "command": "speedtest-cli --json  --server 3587",
+        "download": 44752178,
+        "upload": 25532320,
+        "country": "Netherlands"
+    },
+    {
+        "command": " speedtest-cli --json  --server 38241",
+        "download": 9056881,
+        "upload": 1349386,
+        "country": "Japan"
+    },
+    {
+        "command": "speedtest-cli --json  --server 33953",
+        "download": 17620000,
+        "upload": 6700000,
+        "country": "My connection"
+    }
+]

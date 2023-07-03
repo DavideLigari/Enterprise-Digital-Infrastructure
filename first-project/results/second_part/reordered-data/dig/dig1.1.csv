@@ -1,0 +1,14 @@
+Name server;Flags;Domain name;TTL;Record type;IP address;Query time
+Google;qr rd ra;achille.unipv.it.;280;A;193.204.34.164;115
+Quad9;qr rd ra;achille.unipv.it;300;A;193.204.34.164;127
+OpenDNS;qr rd ra;achille.unipv.it.;300;A;193.204.34.164;75
+Comodo Secure DNS;qr rd ra;achille.unipv.it.;300;A;193.204.34.164;83
+Univerity of Pavia;qr aa rd;achille.unipv.it.;300;A;193.204.34.164;36
+Google;qr rd ra;www.istat.it.;215;CNAME;01a-istituto.istat.it.;3
+Google;qr rd ra;01a-istituto.istat.it.;21515;A;193.204.90.63;
+Quad9;qr rd ra;www.istat.it.;300;CNAME;01a-istituto.istat.it.;47
+OpenDNS;qr rd ra;www.istat.it.;212;CNAME;01a-istituto.istat.it.;39
+OpenDNS;qr rd ra;01a-istituto.istat.it.;86312;A;193.204.90.6;39
+Comodo Secure DNS;qr rd ra;www.istat.it.;300;CNAME;01a-istituto.istat.it.;163
+Comodo Secure DNS;qr rd ra;01a-istituto.istat.it.;86400;A;193.204.90.6;163
+University of Pavia;qr rd;www.istat.it.;;;;55

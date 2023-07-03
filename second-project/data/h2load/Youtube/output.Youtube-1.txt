@@ -1,0 +1,110 @@
+starting benchmark...
+spawning thread #0: 1 total client(s). Timing-based test with 1s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 100% of clients started
+TLS Protocol: TLSv1.3
+Cipher: TLS_AES_256_GCM_SHA384
+Server Temp Key: X25519 253 bits
+Application protocol: h2
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 31.00s, 0.60 req/s, 422.61KB/s
+requests: 18 total, 18 started, 18 done, 18 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 18 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 12.38MB (12982464) total, 8.18KB (8373) headers (space savings 73.37%), 12.61MB (13224598) data
+                     min         max         mean         sd        +/- sd
+time for request:   758.00ms       3.72s       1.70s    661.28ms    83.33%
+time for connect:        0us         0us         0us         0us     0.00%
+time to 1st byte:        0us         0us         0us         0us     0.00%
+req/s           :       0.60        0.60        0.60        0.00   100.00%
+starting benchmark...
+spawning thread #0: 1 total client(s). Timing-based test with 2s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 100% of clients started
+TLS Protocol: TLSv1.3
+Cipher: TLS_AES_256_GCM_SHA384
+Server Temp Key: X25519 253 bits
+Application protocol: h2
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 32.00s, 0.67 req/s, 483.38KB/s
+requests: 20 total, 20 started, 20 done, 20 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 21 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 14.16MB (14849372) total, 9.32KB (9541) headers (space savings 73.73%), 14.83MB (15551988) data
+                     min         max         mean         sd        +/- sd
+time for request:   959.75ms       2.17s       1.48s    327.42ms    65.00%
+time for connect:        0us         0us         0us         0us     0.00%
+time to 1st byte:        0us         0us         0us         0us     0.00%
+req/s           :       0.67        0.67        0.67        0.00   100.00%
+starting benchmark...
+spawning thread #0: 1 total client(s). Timing-based test with 4s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 100% of clients started
+TLS Protocol: TLSv1.3
+Cipher: TLS_AES_256_GCM_SHA384
+Server Temp Key: X25519 253 bits
+Application protocol: h2
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 34.00s, 0.60 req/s, 435.02KB/s
+requests: 18 total, 18 started, 18 done, 18 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 18 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 12.74MB (13363949) total, 9.20KB (9418) headers (space savings 73.21%), 14.43MB (15131861) data
+                     min         max         mean         sd        +/- sd
+time for request:      1.33s       1.95s       1.67s    182.37ms    55.56%
+time for connect:        0us         0us         0us         0us     0.00%
+time to 1st byte:        0us         0us         0us         0us     0.00%
+req/s           :       0.60        0.60        0.60        0.00   100.00%
+starting benchmark...
+spawning thread #0: 1 total client(s). Timing-based test with 8s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 100% of clients started
+TLS Protocol: TLSv1.3
+Cipher: TLS_AES_256_GCM_SHA384
+Server Temp Key: X25519 253 bits
+Application protocol: h2
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 38.00s, 0.83 req/s, 586.66KB/s
+requests: 25 total, 25 started, 25 done, 25 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 25 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 17.19MB (18022076) total, 12.75KB (13059) headers (space savings 74.49%), 21.19MB (22216377) data
+                     min         max         mean         sd        +/- sd
+time for request:   772.03ms       1.98s       1.23s    282.32ms    76.00%
+time for connect:        0us         0us         0us         0us     0.00%
+time to 1st byte:        0us         0us         0us         0us     0.00%
+req/s           :       0.83        0.83        0.83        0.00   100.00%
+starting benchmark...
+spawning thread #0: 1 total client(s). Timing-based test with 16s of warm-up time and 30s of main duration for measurements.
+Warm-up started for thread #0.
+progress: 100% of clients started
+TLS Protocol: TLSv1.3
+Cipher: TLS_AES_256_GCM_SHA384
+Server Temp Key: X25519 253 bits
+Application protocol: h2
+Warm-up phase is over for thread #0.
+Main benchmark duration is started for thread #0.
+Main benchmark duration is over for thread #0. Stopping all clients.
+Stopped all clients for thread #0
+
+finished in 46.00s, 0.73 req/s, 534.99KB/s
+requests: 22 total, 22 started, 22 done, 22 succeeded, 0 failed, 0 errored, 0 timeout
+status codes: 22 2xx, 0 3xx, 0 4xx, 0 5xx
+traffic: 15.67MB (16434945) total, 13.38KB (13703) headers (space savings 74.37%), 22.32MB (23398976) data
+                     min         max         mean         sd        +/- sd
+time for request:   776.12ms       1.92s       1.33s    295.32ms    68.18%
+time for connect:        0us         0us         0us         0us     0.00%
+time to 1st byte:        0us         0us         0us         0us     0.00%
+req/s           :       0.73        0.73        0.73        0.00   100.00%
